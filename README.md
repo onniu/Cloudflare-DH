@@ -21,7 +21,7 @@
 ![Material UI](https://img.shields.io/badge/Material_UI-7.0-0081cb)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-f38020)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/zqq-nuli/Cloudflare-Navihive)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/onniu/Cloudflare-DH)
 
 </div>
 
@@ -70,12 +70,12 @@ NaviHive 是一个精美的网站导航管理系统，帮助你整理和管理�
 
 ## 📸 演示截图
 
-<details>
+<细节>
 <summary><b>全局设置</b></summary>
 <img src="https://img.zhengmi.org/file/1743801673107_1743801661335.jpg" alt="全局设置" width="100%">
-</details>
+</细节>
 
-<details>
+<细节>
 <summary><b>网站设置</b></summary>
 <img src="https://img.zhengmi.org/file/1743801939121_image.png" alt="网站设置" width="100%">
 </details>
